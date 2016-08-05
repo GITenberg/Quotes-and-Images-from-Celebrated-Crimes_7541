@@ -1,0 +1,35 @@
+_repo: Quotes-and-Images-from-Celebrated-Crimes_7541
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    - Dumas père, Alexandre
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quotations'
+- !lcsh 'French literature'
+- !lcc 'PQ'
+- GITenberg
+title: Quotes and Images from Celebrated Crimes
+url: http://www.gutenberg.org/ebooks/7541
